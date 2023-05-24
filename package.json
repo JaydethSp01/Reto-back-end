@@ -1,0 +1,19 @@
+{
+  "name": "kalo-back_end",
+  "version": "1.0.0",
+  "description": "Reto back- end de kalo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaydethSp01/Reto-back-end.git"
+  },
+  "author": "Jaydeth Simarra Polo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaydethSp01/Reto-back-end/issues"
+  },
+  "homepage": "https://github.com/JaydethSp01/Reto-back-end#readme"
+}
